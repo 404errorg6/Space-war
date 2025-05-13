@@ -1,1 +1,5 @@
 # Asteroid-game
+# Setup
+1:Install python
+2:Got to terminal and use "pip install -r requirements.txt
+3:Run game with python3 main.py or python main.py
