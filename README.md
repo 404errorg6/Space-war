@@ -1,5 +1,5 @@
-# Asteroid-game
-# Setup
+# Space war
+### Setup
 1.Install python  
 2.cd to Asteroid-game folder  
 3.Use "pip install -r requirements.txt"  
