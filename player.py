@@ -48,6 +48,7 @@ class Player(CircleShape):
                 self.shoot()
                 self.timer = self.cooldown
         self.timer -= dt
+        
 
     def move(self, dt):
         forward = pygame.Vector2(0, 1).rotate(self.rotation)
